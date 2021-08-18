@@ -44,7 +44,7 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
 ### Equipo
 
 * Estudiante 1
-* Estudiante 2
+* Sánchez Cruz Ingrid Naomi
 * Estudiante 3
 * Estudiante 4
 
