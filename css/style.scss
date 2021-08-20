@@ -1,7 +1,7 @@
 $black: #000000;
 $white: #ffffff;
-$primary1: #133e3f;
-$primary2: #4bc5b8;
+$primary1: #cf5b59;
+$primary2: #18aa97;
 
 @mixin main-font {
   font-family: "Poppins", sans-serif;
@@ -84,7 +84,7 @@ body {
 
 /*header section*/
   height: 100vh;
-  background-color: #b5e8ee;
+  background-color: #f8c2aa;
   background-image: url(../images/planta-nuclear-atardecer.jpg);
   background-size: cover;
 }
